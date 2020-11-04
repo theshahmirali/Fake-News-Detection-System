@@ -1,0 +1,16 @@
+pandas
+numpy
+datetime
+sklearn
+re
+os 
+zipfile
+urllib
+glob
+nltk
+vaderSentiment
+seaborn
+flask
+plotly
+pickle
+yellowbrick
