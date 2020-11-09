@@ -1,4 +1,4 @@
-# Fake-News-Detection Sytem
+# Fake-News-Detection System
 
 The software for the product is divided into two major components. 
 The first component consists of the Fake News Detection Model which contains the python notebooks used to build, evaluate, and save the model. 
